@@ -1,4 +1,7 @@
 # OneSidePage_Wordpress
+
+Screenshoot for my webside by wordpress. 
+
 ![Zrzut ekranu (108)](https://user-images.githubusercontent.com/130925883/234260584-3945dd17-567a-4c0a-8662-662e6f02e44f.png)
 ![Zrzut ekranu (109)](https://user-images.githubusercontent.com/130925883/234260596-ece861f8-179b-44ce-b857-ab6ccf2cfbd1.png)
 ![Zrzut ekranu (110)](https://user-images.githubusercontent.com/130925883/234260598-16919644-ac11-40db-81c0-944f7fc7b331.png)
